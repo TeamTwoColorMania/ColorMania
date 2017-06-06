@@ -367,8 +367,8 @@ MonoBehaviour:
     height: 637
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: e2fbffff
-    m_LastClickedID: -1054
+    m_SelectedIDs: ec240000
+    m_LastClickedID: 0
     m_ExpandedIDs: e4fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -535,7 +535,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scripts
   m_LastFoldersGridSize: 64
-  m_LastProjectPath: C:\Users\Joseph Garrity\Desktop\TeamUnknown_GameMechanics_Project\TeamUnknown_ColorMania_Project
+  m_LastProjectPath: C:\Users\Joseph Garrity\Documents\GitHub\ColorMania\TeamUnknown_ColorMania_Project
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
