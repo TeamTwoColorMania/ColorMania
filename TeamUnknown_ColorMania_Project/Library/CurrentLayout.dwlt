@@ -367,8 +367,8 @@ MonoBehaviour:
     height: 637
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ec240000
-    m_LastClickedID: 0
+    m_SelectedIDs: e2fbffff
+    m_LastClickedID: -1054
     m_ExpandedIDs: e4fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -596,7 +596,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: ec2800002a2e0000faefffff1a2b000054290000ee70feff06b5fdff000000004c41000052240000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
